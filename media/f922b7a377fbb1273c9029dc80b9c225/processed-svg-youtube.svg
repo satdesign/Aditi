@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1" aria-hidden="true"><defs><linearGradient class="cerosgradient" data-cerosgradient="true" id="CerosGradient_id6cfdc568e" gradientUnits="userSpaceOnUse" x1="50%" y1="100%" x2="50%" y2="0%"><stop offset="0%" stop-color="#d1d1d1"/><stop offset="100%" stop-color="#d1d1d1"/></linearGradient><linearGradient/></defs>
+    <title>Group 5</title>
+    <g id="1_Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1_Home_1680_Default" transform="translate(-183.000000, -3660.000000)">
+            <g id="Group-115fa49f9c74635" transform="translate(0.000000, 3523.000000)">
+                <g id="Group-35fa49f9c74635" transform="translate(79.000000, 89.000000)">
+                    <g id="Group-55fa49f9c74635" transform="translate(104.000000, 48.000000)">
+                        <circle id="Oval5fa49f9c74635" fill="#D7D7D7" cx="16" cy="16" r="16"/>
+                        <g id="Icon/Social-Youtube-Footer" transform="translate(7.000000, 9.000000)" fill="#231F20">
+                            <path d="M7.55682769,9.2438125 L7.55682769,3.757 L12.5233167,6.5 L7.55682769,9.2438125 Z M18.6034171,2.0304375 C18.3850456,1.2309375 17.7408076,0.6020625 16.9233784,0.388375 C15.4416311,0 9.50041834,0 9.50041834,0 C9.50041834,0 3.55836893,0 2.0766216,0.388375 C1.25919239,0.6020625 0.615791096,1.2309375 0.396582853,2.0304375 C0,3.4783125 0,6.5 0,6.5 C0,6.5 0,9.5216875 0.396582853,10.970375 C0.615791096,11.7690625 1.25919239,12.39875 2.0766216,12.6124375 C3.55836893,13 9.50041834,13 9.50041834,13 C9.50041834,13 15.4416311,13 16.9233784,12.6124375 C17.7408076,12.39875 18.3850456,11.7690625 18.6034171,10.970375 C19,9.5216875 19,6.5 19,6.5 C19,6.5 19,3.4783125 18.6034171,2.0304375 L18.6034171,2.0304375 Z" id="Youtube-Icon5fa49f9c74635"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

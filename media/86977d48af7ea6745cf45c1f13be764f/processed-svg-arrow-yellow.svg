@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1" aria-hidden="true"><defs><linearGradient class="cerosgradient" data-cerosgradient="true" id="CerosGradient_id88a7c5c72" gradientUnits="userSpaceOnUse" x1="50%" y1="100%" x2="50%" y2="0%"><stop offset="0%" stop-color="#d1d1d1"/><stop offset="100%" stop-color="#d1d1d1"/></linearGradient><linearGradient/></defs>
+    <title>ARROW</title>
+    <g id="1_Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1_Home_1680_Default" transform="translate(-1274.000000, -262.000000)" stroke="#FFD20B">
+            <g id="Group-45f1784d1659a0" transform="translate(1140.000000, 185.000000)">
+                <g id="ARROW5f1784d1659a0" transform="translate(135.000000, 78.000000)">
+                    <path d="M20,9.99949847 C20,4.47665379 15.5233462,0 10.0005015,0 C4.47665379,0 0,4.47665379 0,9.99949847 C0,15.5223431 4.47665379,20 10.0005015,20 C15.5233462,20 20,15.5223431 20,9.99949847 Z" id="Stroke-15f1784d1659a0" stroke-width="2"/>
+                    <polyline id="Stroke-35f1784d1659a0" stroke-width="1.8" points="10 4 15 9.34714825 10 15.0452864"/>
+                    <line x1="4" y1="9.5" x2="15" y2="9.5" id="Stroke-55f1784d1659a0" stroke-width="1.8"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

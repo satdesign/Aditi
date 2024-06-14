@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="1_Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1_Home_1680_Default" transform="translate(-79.000000, -3660.000000)">
+            <g id="Group-11" transform="translate(0.000000, 3523.000000)">
+                <g id="Group-3" transform="translate(79.000000, 89.000000)">
+                    <g id="Group-2" transform="translate(0.000000, 48.000000)">
+                        <circle id="Oval" fill="#D7D7D7" cx="16" cy="16" r="16"></circle>
+                        <g id="Icon/Social-Facebook-Footer" transform="translate(12.000000, 8.000000)" fill="#231F20">
+                            <path d="M2.36466482,15 L2.36466482,8.1571875 L0,8.1571875 L0,5.4909375 L2.36466482,5.4909375 L2.36466482,3.525 C2.36466482,1.2421875 3.79636539,0 5.88662896,0 C6.88795282,0 7.74870622,0.0721875 8,0.105 L8,2.49 L6.55000602,2.49 C5.41292574,2.49 5.19244193,3.016875 5.19244193,3.7884375 L5.19244193,5.4909375 L7.90371886,5.4909375 L7.55132988,8.1571875 L5.19244193,8.1571875 L5.19244193,15 L2.36466482,15 Z" id="Facebook-Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
